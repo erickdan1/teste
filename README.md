@@ -1,3 +1,3 @@
 # teste
 
-canal de testes
+Repositório de testes
